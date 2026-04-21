@@ -1,10 +1,10 @@
-# SAM Fine-Tune Pipeline
+# WCB(SAM Fine-Tune Pipeline+Bootstrapping)
 
 This folder contains a minimal two-script pipeline for adapting SAM to industrial defect segmentation and then using the fine-tuned model for box-guided inference.
 
 Files:
-- `sam_finetune.py`: lightweight SAM fine-tuning with pixel-level defect masks
-- `sam_infer_from_box.py`: box-guided inference with the fine-tuned SAM
+- `sam_finetune.py`: lightweight SAM fine-tuning with pixel-level defect masks (finetuning)
+- `sam_infer_from_box.py`: box-guided inference with the fine-tuned SAM (bootstrapping)
 
 ## 0. Setup in a New Environment
 
