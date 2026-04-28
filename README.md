@@ -1,8 +1,6 @@
 # TCFMAD
 
-Cleaned, shareable copy of a TCFMAD DINOv3 anomaly detection project for VisA-style few-shot anomaly detection experiments.
-
-This copy keeps the core code, configs, scripts, and notes needed to understand the project, while removing datasets, checkpoints, logs, and other local artifacts that are not suitable for a public repository snapshot.
+TCFMAD DINOv3 anomaly detection
 
 ## Core Ideas
 
