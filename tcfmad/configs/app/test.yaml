@@ -1,0 +1,7 @@
+# @package app
+
+model_name: dinov3
+ckpt_step: ''
+
+logging:
+  write_tag: AD               
